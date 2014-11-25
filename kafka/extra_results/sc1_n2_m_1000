@@ -1,0 +1,28 @@
+[1] 23:48:51 [SUCCESS] 54.205.28.119
+Number of Messages: 1000
+Producer Running Time 3.569 sec
+Producer Throughput 280.19052956010086 messages/sec
+Producer Latency 3.569 ms
+
+Consumer Running Time 2.143 sec
+Consumer Throughput 466.6355576294914 messages/sec
+Consumer Latency 2.143 ms
+
+Total Running Time 5.714 sec
+Overall Throughput 175.00875043752185 messages/sec
+Overall Latency 5.714 ms
+
+[2] 23:48:51 [SUCCESS] 54.89.240.94
+Number of Messages: 1000
+Producer Running Time 3.894 sec
+Producer Throughput 256.8053415511043 messages/sec
+Producer Latency 3.894 ms
+
+Consumer Running Time -1.415771320371E9 sec
+Consumer Throughput -7.063287591798031E-7 messages/sec
+Consumer Latency -1.41577126E9 ms
+
+Total Running Time -1.415771316472E9 sec
+Overall Throughput -7.063287611250156E-7 messages/sec
+Overall Latency -1.41577126E9 ms
+

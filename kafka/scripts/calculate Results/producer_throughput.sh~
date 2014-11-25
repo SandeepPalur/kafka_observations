@@ -1,0 +1,33 @@
+echo filename $1 # input filename
+echo num of nodes $2 # num of nodes
+cat $1 | grep "Producer Thr" | awk '{print $3}' >> $1_prod_throughput.out
+cat $1 | grep "Producer Lat" | awk '{print $3}' >> $1_prod_latency.out
+sum=0
+prod_tpt=0
+prod_lat=0
+for i in `cat $1_prod_throughput.out`
+do
+	if [ 1 -eq `echo "${i} > ${Y}" | bc` ]
+	then
+                echo each node throughput $i
+		sum=$(echo "$sum + $i"|bc -l)
+     	fi  
+done
+prod_tpt=$(echo "$sum / $2"|bc -l)
+echo PRODUCER THROUGHPUT $(echo "$each_run_total / $3"|bc -l)
+rm -f $1_prod_throughput.out
+#Calculating producer latency
+sum=0
+for i in `cat $1_prod_latency.out`
+do
+	if [ 1 -eq `echo "${i} > ${Y}" | bc` ]
+	then
+                echo each node latency $i
+		sum=$(echo "$sum + $i"|bc -l)
+     	fi
+done
+prod_lat=$(echo "$sum / $2"|bc -l)
+echo PRODUCER LATENCY $prod_lat
+rm -f $1_prod_latency.out
+
+

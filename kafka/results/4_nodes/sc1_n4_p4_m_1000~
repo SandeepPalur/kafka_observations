@@ -1,0 +1,64 @@
+[1] 17:58:07 [SUCCESS] 54.147.203.121
+Number of Messages: 1000
+Producer Running Time 3.887 sec
+Producer Throughput 257.2678157962439 messages/sec
+Producer Latency 3.887 ms
+
+Consumer start time 1415923074769
+Consumer stop time 1415923077336
+Consumer Running Time 2.567 sec
+Consumer Throughput 389.5597974289053 messages/sec
+Consumer Latency 2.567 ms
+
+Total Running Time 6.455 sec
+Overall Throughput 154.91866769945779 messages/sec
+Overall Latency 6.455 ms
+
+[2] 17:58:07 [SUCCESS] 54.205.144.90
+Number of Messages: 1000
+Producer Running Time 3.93 sec
+Producer Throughput 254.45292620865138 messages/sec
+Producer Latency 3.93 ms
+
+Consumer start time 1415923074790
+Consumer stop time 1415923077221
+Consumer Running Time 2.431 sec
+Consumer Throughput 411.3533525298231 messages/sec
+Consumer Latency 2.431 ms
+
+Total Running Time 6.362 sec
+Overall Throughput 157.18327569946558 messages/sec
+Overall Latency 6.362 ms
+
+[3] 17:58:07 [SUCCESS] 54.161.108.213
+Number of Messages: 1000
+Producer Running Time 4.111 sec
+Producer Throughput 243.24981756263685 messages/sec
+Producer Latency 4.111 ms
+
+Consumer start time 1415923074965
+Consumer stop time 1415923076853
+Consumer Running Time 1.888 sec
+Consumer Throughput 529.6610169491526 messages/sec
+Consumer Latency 1.888 ms
+
+Total Running Time 6.0 sec
+Overall Throughput 166.66666666666666 messages/sec
+Overall Latency 6.0 ms
+
+[4] 17:58:08 [SUCCESS] 54.161.60.122
+Number of Messages: 1000
+Producer Running Time 4.105 sec
+Producer Throughput 243.60535931790497 messages/sec
+Producer Latency 4.105 ms
+
+Consumer start time 1415923074962
+Consumer stop time 1415923076499
+Consumer Running Time 1.537 sec
+Consumer Throughput 650.6180871828237 messages/sec
+Consumer Latency 1.537 ms
+
+Total Running Time 5.647 sec
+Overall Throughput 177.08517797060387 messages/sec
+Overall Latency 5.647 ms
+=================================================================================Run-2===============================================================================

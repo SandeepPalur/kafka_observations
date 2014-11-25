@@ -1,0 +1,66 @@
+[1] 18:08:11 [SUCCESS] 54.205.249.96
+Number of Messages: 10000
+Producer Running Time 11.651 sec
+Producer Throughput 858.2954252853832 messages/sec
+Producer Latency 1.1651 ms
+
+Consumer start time 1415837235723
+Consumer stop time 1415837240748
+Consumer Running Time 5.025 sec
+Consumer Throughput 1990.049751243781 messages/sec
+Consumer Latency 0.5025 ms
+
+Total Running Time 16.677 sec
+Overall Throughput 599.6282304970919 messages/sec
+Overall Latency 1.6677 ms
+
+Number of Messages: 10000
+Producer Running Time 11.063 sec
+Producer Throughput 903.9139473922082 messages/sec
+Producer Latency 1.1063 ms
+
+Consumer start time 1415837235057
+Consumer stop time 1415837241077
+Consumer Running Time 6.02 sec
+Consumer Throughput 1661.1295681063125 messages/sec
+Consumer Latency 0.602 ms
+
+Total Running Time 17.086 sec
+Overall Throughput 585.2744937375629 messages/sec
+Overall Latency 1.7086 ms
+
+==========================================================================================Run-2==========================
+
+[1] 18:09:49 [SUCCESS] 54.205.249.96
+Number of Messages: 10000
+Producer Running Time 11.401 sec
+Producer Throughput 877.1160424524164 messages/sec
+Producer Latency 1.1401 ms
+
+Consumer start time 1415837333067
+Consumer stop time 1415837337633
+Consumer Running Time 4.566 sec
+Consumer Throughput 2190.1007446342533 messages/sec
+Consumer Latency 0.4566 ms
+
+Total Running Time 15.969 sec
+Overall Throughput 626.2132882459766 messages/sec
+Overall Latency 1.5969 ms
+
+[2] 18:09:50 [SUCCESS] 54.147.215.44
+Number of Messages: 10000
+Producer Running Time 11.334 sec
+Producer Throughput 882.3010411152286 messages/sec
+Producer Latency 1.1334 ms
+
+Consumer start time 1415837332965
+Consumer stop time 1415837337661
+Consumer Running Time 4.696 sec
+Consumer Throughput 2129.471890971039 messages/sec
+Consumer Latency 0.4696 ms
+
+Total Running Time 16.042 sec
+Overall Throughput 623.363670365291 messages/sec
+Overall Latency 1.6042 ms
+
+

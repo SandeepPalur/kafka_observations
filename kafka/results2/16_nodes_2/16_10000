@@ -1,0 +1,407 @@
+PRODUCER
+Topic is t16
+Number of Messages is 10000
+[1] 02:23:12 [SUCCESS] 54.204.208.64
+Number of Messages: 10000
+Producer Start Time 1416817382297
+Producer Stop Time 1416817392695
+Producer Running Time 10.398 sec
+Producer Throughput 961.7234083477592 messages/sec
+Producer Latency 1.0398 ms
+Stderr: Warning: No xauth data; using fake authentication data for X11 forwarding.
+log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2] 02:23:12 [SUCCESS] 54.224.58.160
+Number of Messages: 10000
+Producer Start Time 1416817382170
+Producer Stop Time 1416817392747
+Producer Running Time 10.577 sec
+Producer Throughput 945.4476694714948 messages/sec
+Producer Latency 1.0577 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[3] 02:23:12 [SUCCESS] 54.147.250.174
+Number of Messages: 10000
+Producer Start Time 1416817382320
+Producer Stop Time 1416817393071
+Producer Running Time 10.751 sec
+Producer Throughput 930.1460329271696 messages/sec
+Producer Latency 1.0751 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[4] 02:23:13 [SUCCESS] 54.146.132.50
+Number of Messages: 10000
+Producer Start Time 1416817382221
+Producer Stop Time 1416817393343
+Producer Running Time 11.122 sec
+Producer Throughput 899.1188635137565 messages/sec
+Producer Latency 1.1122 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[5] 02:23:13 [SUCCESS] 54.226.193.57
+Number of Messages: 10000
+Producer Start Time 1416817382261
+Producer Stop Time 1416817393492
+Producer Running Time 11.231 sec
+Producer Throughput 890.3926631644555 messages/sec
+Producer Latency 1.1231 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[6] 02:23:13 [SUCCESS] 54.198.8.52
+Number of Messages: 10000
+Producer Start Time 1416817382140
+Producer Stop Time 1416817393546
+Producer Running Time 11.406 sec
+Producer Throughput 876.7315448009819 messages/sec
+Producer Latency 1.1406 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[7] 02:23:14 [SUCCESS] 54.147.202.99
+Number of Messages: 10000
+Producer Start Time 1416817382266
+Producer Stop Time 1416817394168
+Producer Running Time 11.902 sec
+Producer Throughput 840.1949252226517 messages/sec
+Producer Latency 1.1902 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[8] 02:23:14 [SUCCESS] 174.129.182.135
+Number of Messages: 10000
+Producer Start Time 1416817382042
+Producer Stop Time 1416817394041
+Producer Running Time 11.999 sec
+Producer Throughput 833.4027835652971 messages/sec
+Producer Latency 1.1999 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[9] 02:23:14 [SUCCESS] 54.197.110.217
+Number of Messages: 10000
+Producer Start Time 1416817382323
+Producer Stop Time 1416817394221
+Producer Running Time 11.898 sec
+Producer Throughput 840.4773911581779 messages/sec
+Producer Latency 1.1898 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[10] 02:23:14 [SUCCESS] 50.16.103.242
+Number of Messages: 10000
+Producer Start Time 1416817382300
+Producer Stop Time 1416817394637
+Producer Running Time 12.337 sec
+Producer Throughput 810.5698305909054 messages/sec
+Producer Latency 1.2337 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[11] 02:23:14 [SUCCESS] 54.80.111.174
+Number of Messages: 10000
+Producer Start Time 1416817382257
+Producer Stop Time 1416817394682
+Producer Running Time 12.425 sec
+Producer Throughput 804.8289738430583 messages/sec
+Producer Latency 1.2425 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[12] 02:23:15 [SUCCESS] 54.166.67.202
+Number of Messages: 10000
+Producer Start Time 1416817382169
+Producer Stop Time 1416817395377
+Producer Running Time 13.208 sec
+Producer Throughput 757.1168988491823 messages/sec
+Producer Latency 1.3208 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[13] 02:23:15 [SUCCESS] 54.205.166.3
+Number of Messages: 10000
+Producer Start Time 1416817382126
+Producer Stop Time 1416817395954
+Producer Running Time 13.828 sec
+Producer Throughput 723.1703789412786 messages/sec
+Producer Latency 1.3828 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[14] 02:23:16 [SUCCESS] 54.146.183.167
+Number of Messages: 10000
+Producer Start Time 1416817382185
+Producer Stop Time 1416817396364
+Producer Running Time 14.179 sec
+Producer Throughput 705.2683546089287 messages/sec
+Producer Latency 1.4179 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[15] 02:23:16 [SUCCESS] 54.237.147.230
+Number of Messages: 10000
+Producer Start Time 1416817382380
+Producer Stop Time 1416817396539
+Producer Running Time 14.159 sec
+Producer Throughput 706.2645667066882 messages/sec
+Producer Latency 1.4159 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[16] 02:23:21 [SUCCESS] 54.197.33.123
+Number of Messages: 10000
+Producer Start Time 1416817382293
+Producer Stop Time 1416817401774
+Producer Running Time 19.481 sec
+Producer Throughput 513.3206714234382 messages/sec
+Producer Latency 1.9481 ms
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+sandeep@ubuntu:~/kafka$ sh scripts/pssh_consumer.sh t16
+CONSUMER
+Topic is t16
+[1] 02:23:42 [SUCCESS] 54.197.33.123
+Number of messages received : 20000
+Consumer start time 1416817409988
+Consumer stop time 1416817416684
+Consumer Running Time 6.696 sec
+Consumer Throughput 2986.857825567503 messages/sec
+Consumer Latency 0.3348 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[2] 02:23:42 [SUCCESS] 54.197.110.217
+Number of messages received : 0
+Consumer start time 1416817410167
+Consumer stop time 0
+Consumer Running Time -1.416817410167E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[3] 02:23:42 [SUCCESS] 54.205.166.3
+Number of messages received : 30000
+Consumer start time 1416817410153
+Consumer stop time 1416817415620
+Consumer Running Time 5.467 sec
+Consumer Throughput 5487.470276202671 messages/sec
+Consumer Latency 0.18223333 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[4] 02:23:42 [SUCCESS] 54.224.58.160
+Number of messages received : 10000
+Consumer start time 1416817410220
+Consumer stop time 1416817414494
+Consumer Running Time 4.274 sec
+Consumer Throughput 2339.728591483388 messages/sec
+Consumer Latency 0.4274 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[5] 02:23:43 [SUCCESS] 54.226.193.57
+Number of messages received : 10000
+Consumer start time 1416817410220
+Consumer stop time 1416817414820
+Consumer Running Time 4.6 sec
+Consumer Throughput 2173.913043478261 messages/sec
+Consumer Latency 0.46 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[6] 02:23:45 [SUCCESS] 54.146.183.167
+Number of messages received : 0
+Consumer start time 1416817410180
+Consumer stop time 0
+Consumer Running Time -1.41681741018E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[7] 02:23:45 [SUCCESS] 174.129.182.135
+Number of messages received : 10000
+Consumer start time 1416817410074
+Consumer stop time 1416817414933
+Consumer Running Time 4.859 sec
+Consumer Throughput 2058.0366330520683 messages/sec
+Consumer Latency 0.4859 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[8] 02:23:46 [SUCCESS] 54.198.8.52
+Number of messages received : 0
+Consumer start time 1416817410127
+Consumer stop time 0
+Consumer Running Time -1.416817410127E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[9] 02:23:46 [SUCCESS] 54.147.202.99
+Number of messages received : 30000
+Consumer start time 1416817410206
+Consumer stop time 1416817416856
+Consumer Running Time 6.65 sec
+Consumer Throughput 4511.278195488721 messages/sec
+Consumer Latency 0.22166666 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[10] 02:23:47 [SUCCESS] 54.237.147.230
+Number of messages received : 0
+Consumer start time 1416817410231
+Consumer stop time 0
+Consumer Running Time -1.416817410231E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[11] 02:23:47 [SUCCESS] 54.147.250.174
+Number of messages received : 0
+Consumer start time 1416817410372
+Consumer stop time 0
+Consumer Running Time -1.416817410372E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[12] 02:23:47 [SUCCESS] 50.16.103.242
+Number of messages received : 0
+Consumer start time 1416817410264
+Consumer stop time 0
+Consumer Running Time -1.416817410264E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[13] 02:23:47 [SUCCESS] 54.204.208.64
+Number of messages received : 30000
+Consumer start time 1416817410287
+Consumer stop time 1416817415236
+Consumer Running Time 4.949 sec
+Consumer Throughput 6061.830672863205 messages/sec
+Consumer Latency 0.16496667 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[14] 02:23:48 [SUCCESS] 54.146.132.50
+Number of messages received : 10000
+Consumer start time 1416817410207
+Consumer stop time 1416817414689
+Consumer Running Time 4.482 sec
+Consumer Throughput 2231.1468094600623 messages/sec
+Consumer Latency 0.4482 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[15] 02:23:49 [SUCCESS] 54.166.67.202
+Number of messages received : 10000
+Consumer start time 1416817410102
+Consumer stop time 1416817414416
+Consumer Running Time 4.314 sec
+Consumer Throughput 2318.034306907742 messages/sec
+Consumer Latency 0.4314 ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[16] 02:23:50 [SUCCESS] 54.80.111.174
+Number of messages received : 0
+Consumer start time 1416817410161
+Consumer stop time 0
+Consumer Running Time -1.416817410161E9 sec
+Consumer Throughput -0.0 messages/sec
+Consumer Latency -Infinity ms
+
+Stderr: log4j:WARN No appenders could be found for logger (kafka.utils.VerifiableProperties).
+log4j:WARN Please initialize the log4j system properly.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+

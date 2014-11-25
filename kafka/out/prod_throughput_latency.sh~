@@ -1,0 +1,30 @@
+
+sum=0
+each_run_total=0
+c=0
+no_runs=0
+echo $1 # filename
+echo $2 # num of nodes
+for i in `cat $1`
+do
+	if [ $(echo "$i > 0" | bc -l) ]
+	then
+                echo $i
+		sum=$(echo "$sum + $i"|bc -l)
+     	fi
+	c=$(echo "$c + 1"|bc -l)
+	
+	if [ $c -eq $2 ]
+	then
+		each_run=$(echo "$sum / $2"|bc -l)
+                echo each run $each_run
+		each_run_total=$(echo "$each_run_total + $sum / $2"|bc -l)
+		c=0
+		sum=0
+	fi
+    
+done
+echo $sum
+echo $each_run_total
+echo $(echo "$each_run_total / $3"|bc -l)
+

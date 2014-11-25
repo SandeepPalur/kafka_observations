@@ -1,0 +1,10 @@
+#!/bin/bash
+
+while read private public id
+
+do
+	sed -i "/host.name=/c\host.name=$private"  /home/sandeep/kafka/server.properties
+	sed -i "/broker.id=/c\broker.id=$id"  /home/sandeep/kafka/server.properties
+	scp -r -i /home/sandeep/kafka/sandeep_kafka.pem /home/sandeep/kafka/server.properties ubuntu@"$public":/home/ubuntu/kafka_2.9.2-0.8.1.1/conf
+
+done < /home/sandeep/ips

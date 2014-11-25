@@ -1,0 +1,51 @@
+filename=`echo $1 | awk -F"/" '{print $NF}'`
+field2=`echo $filename | awk -F"_" '{print $1}'`
+field3=`echo $filename | awk -F"_" '{print $2}'`
+echo filename $1 # Input filename
+echo num of nodes $field2 # num of nodes
+echo num of messages $field3 #no of messages
+cat $1 | grep "Consumer start" | awk '{print $4}' >> $1_con_start.out
+cat $1 | grep "Consumer stop" | awk '{print $4}' >> $1_con_stop.out
+#Finding min start time
+c=0
+min=9223372036854775807
+max=0
+time=0
+con_tpt=0
+con_lat=0
+for i in `cat $1_con_start.out`
+do
+
+	if [ 1 -eq `echo "${i} < ${min}" | bc` ]
+	then
+		min=$i
+     	fi
+	echo start time $i 
+done
+echo Minimum start time is $min
+rm -f $1_con_start.out
+
+#Finding max stop time
+c=0
+for i in `cat $1_con_stop.out`
+do
+
+	if [ 1 -eq `echo "${i} > ${max}" | bc` ]
+	then
+		max=$i
+     	fi
+	echo stop time $i
+done
+echo Maximum stop time is $max
+rm -f $1_con_stop.out
+
+time=$(echo "$max - $min"|bc -l)
+con_tpt=$(echo "($field3 * $field2) / ($time/1000)"|bc -l)
+con_lat=$(echo "$time / $field3"|bc -l)
+echo CONSUMER THROUGHPUT $con_tpt
+echo CONSUMER LATENCY $con_lat
+echo CONSUMER RUNNING TIME $time
+
+
+
+

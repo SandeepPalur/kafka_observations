@@ -1,0 +1,6 @@
+while read private public dd
+do
+
+  echo "Live is $live"
+  echo "Home is $dd"
+done < /home/sandeep/sample

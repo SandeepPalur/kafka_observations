@@ -1,0 +1,3 @@
+echo CONSUMER
+echo Topic is $1
+parallel-ssh -t 0 -i  -h /home/sandeep/kafka/files/hosts.txt -l ubuntu -x "-oStrictHostKeyChecking=no  -i /home/sandeep/kafka/sandeep_kafka.pem" sh /home/ubuntu/kafka_2.9.2-0.8.1.1/start_consumer.sh $1

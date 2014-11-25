@@ -1,0 +1,58 @@
+Topic is t1
+Number of Messages is 100000
+[1] 17:27:12 [SUCCESS] 54.211.182.98
+Number of Messages: 100000
+Producer Running Time 28.278 sec
+Producer Throughput 3536.3179857132754 messages/sec
+Producer Latency 0.28278 ms
+
+Consumer start time 1416352788401
+Consumer stop time 1416352790924
+Consumer Running Time 2.523 sec
+Consumer Throughput 39635.35473642489 messages/sec
+Consumer Latency 0.02523 ms
+Number of messages received : 100000
+
+Total Running Time 30.813 sec
+Overall Throughput 3245.3834420536787 messages/sec
+Overall Latency 0.30813 ms
+
+Topic is t1
+Number of Messages is 100000
+[1] 17:28:36 [SUCCESS] 54.211.182.98
+Number of Messages: 100000
+Producer Running Time 28.263 sec
+Producer Throughput 3538.194813006404 messages/sec
+Producer Latency 0.28263 ms
+
+Consumer start time 1416352871931
+Consumer stop time 1416352874763
+Consumer Running Time 2.832 sec
+Consumer Throughput 35310.734463276836 messages/sec
+Consumer Latency 0.02832 ms
+Number of messages received : 100000
+
+Total Running Time 31.097 sec
+Overall Throughput 3215.744284014535 messages/sec
+Overall Latency 0.31097 ms
+
+Topic is t1
+Number of Messages is 100000
+[1] 17:29:50 [SUCCESS] 54.211.182.98
+Number of Messages: 100000
+Producer Running Time 28.347 sec
+Producer Throughput 3527.7101633329803 messages/sec
+Producer Latency 0.28347 ms
+
+Consumer start time 1416352946373
+Consumer stop time 1416352948875
+Consumer Running Time 2.502 sec
+Consumer Throughput 39968.02557953638 messages/sec
+Consumer Latency 0.02502 ms
+Number of messages received : 100000
+
+Total Running Time 30.851 sec
+Overall Throughput 3241.386016660724 messages/sec
+Overall Latency 0.30851 ms
+
+

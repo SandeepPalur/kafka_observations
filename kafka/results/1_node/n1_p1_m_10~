@@ -1,0 +1,38 @@
+[1] 17:14:50 [SUCCESS] 54.211.182.98
+Number of Messages: 10
+Producer Running Time 0.418 sec
+Producer Throughput 23.923444976076556 messages/sec
+Producer Latency 41.8 ms
+
+Consumer start time 1416352046065
+Consumer stop time 1416352047148
+Consumer Running Time 1.083 sec
+Consumer Throughput 9.233610341643583 messages/sec
+Consumer Latency 108.3 ms
+Number of messages received : 10
+
+Total Running Time 11.502 sec
+Overall Throughput 0.869414014953921 messages/sec
+Overall Latency 1150.2 ms
+
+============================================= Run 2
+Topic is t1
+Number of Messages is 10
+[1] 17:17:26 [SUCCESS] 54.211.182.98
+Number of Messages: 10
+Producer Running Time 0.43 sec
+Producer Throughput 23.25581395348837 messages/sec
+Producer Latency 43.0 ms
+
+Consumer start time 1416352201593
+Consumer stop time 1416352202665
+Consumer Running Time 1.072 sec
+Consumer Throughput 9.328358208955223 messages/sec
+Consumer Latency 107.2 ms
+Number of messages received : 10
+
+Total Running Time 11.503 sec
+Overall Throughput 0.8693384334521429 messages/sec
+Overall Latency 1150.3 ms
+
+
